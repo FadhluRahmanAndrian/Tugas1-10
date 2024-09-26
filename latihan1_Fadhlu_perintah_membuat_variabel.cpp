@@ -1,6 +1,5 @@
 //latihan 1
 //Dibuat oleh Fadhlu Rahman Andrian
-//Tanggal dibuat 2 september 20024
 
 #include<iostream>
 
