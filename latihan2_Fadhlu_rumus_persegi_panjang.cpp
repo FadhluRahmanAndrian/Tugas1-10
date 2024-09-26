@@ -1,4 +1,4 @@
-//latihan 1
+//latihan 2
 //Dibuat oleh Fadhlu Rahman Andrian
 
 #include <iostream>
